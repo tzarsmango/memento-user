@@ -7,8 +7,8 @@ ENTRYPOINT ["java", "-jar"]
 
 WORKDIR /opt/app
 
-COPY build/libs/memento-user.jar .
+COPY build/libs/memento-userData.jar .
 
 EXPOSE 4452
 
-CMD ["memento-user.jar"]
+CMD ["memento-userData.jar"]

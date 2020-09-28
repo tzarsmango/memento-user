@@ -1,6 +1,6 @@
 # Memento User
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build status](https://github.com/tzarsmango/memento-user/workflows/Publish%20master/badge.svg)](https://github.com/tzarsmango/memento-user/actions)
+[![Build status](https://github.com/tzarsmango/memento-userData/workflows/Publish%20master/badge.svg)](https://github.com/tzarsmango/memento-userData/actions)
 
 
 This service is a part of the [memento](https://github.com/users/tzarsmango/projects/1) project. This application manages
