@@ -31,7 +31,7 @@ jobs:
         run: ./gradlew build --info
 
       - name: Publish Docker
-        uses: elgohr/Publish-Docker-Github-Action@2.21
+        uses: elgohr/Publish-Docker-Github-Action@v5
         with:
           name: tzarsmango/memento-user
           username: ${{ secrets.DOCKER_USER }}
